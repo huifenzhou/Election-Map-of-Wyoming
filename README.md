@@ -3,3 +3,4 @@ This project is to create maps showing statistics of votes in the state of Wyomi
 
 The voting results are **visualized** so that viewers can get the details by hovering over each county. Below is an example.
 
+!(map.PNG)
